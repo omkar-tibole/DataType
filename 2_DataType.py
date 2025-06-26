@@ -1,16 +1,14 @@
 """
-Datatype
-
+Datatype:
 Data type specities the type of value a variable holds
 
 
-Built-in Data Types
+Built-in Data Types:
 In programming, data type is an important concept.
-
 Variables can store data of different types, and different types can do different things.
 
-Python has the following data types built-in by default, in these categories:
 
+Python has the following data types built-in by default, in these categories:
 Text Type:	str
 Numeric Types:	int, float, complex
 Sequence Types:	list, tuple, range
@@ -19,19 +17,22 @@ Set Types:	set, frozenset
 Boolean Type:	bool
 Binary Types:	bytes, bytearray, memoryview
 None Type:	NoneType
-
 """
+
 
 # 1.Numeric Data: int,float,complex
 # int:3,-3,0
 # float:7.34
 # complex:6*2i
 
+
 # 2.Text Data:str 
 # str:"hello world"
 
+
 # 3.Boolean Data 
 # Boolean Data consists of values True or false 
+
 
 # Sequenced data: list,tuple 
 # list :  list is a ordered collection of data with element sepreted by a Commaand enclosed within square bracket List are mutable and can be modified after creation
@@ -45,6 +46,7 @@ print(type(List))
 
 # Setting the Data Type
 # In Python, the data type is set when you assign a value to a variable:
+
 
 # Example	Data Type	Try it
 x = "Hello World"
